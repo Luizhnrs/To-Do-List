@@ -8,11 +8,12 @@
   }
   
   body {
-    background-image: url("../assets/bg.jpg");
+    background-image: url("../assets/cuteforest.png");
     background-position: center;
-    background-size: cover;
+    background-size: auto;
+    min-width: 100vw;
   }
-  
+
   button {
     background-color: #fdfdfd;
     color: #102f5e;
